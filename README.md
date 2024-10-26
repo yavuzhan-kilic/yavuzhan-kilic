@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yavuzhan</h1>
+<h3 align="center">A Computer Engineering Student in Gazi University</h3>
 
-<!--
-**yavuzhan-kilic/yavuzhan-kilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzhan-kilic&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzhan-kilic" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavuzhan-kilic" alt="yavuzhan-kilic" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **C development**
+
+- 🔭 I’m currently working on **Huma ANKA.**
+
+- 📫 How to reach me **yavuzhankilic@icloud.com**
+
+- ⚡ Fun fact **I love cats.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yavuzhan-kiliç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yavuzhan-kiliç" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzhan-kilic&show_icons=true&locale=en" alt="yavuzhan-kilic" /></p>
