@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzhan-kilic&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzhan-kilic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yavuzhan-kilic" alt="yavuzhan-kilic" /></a> </p>
-
 - 🌱 I’m currently learning **C development**
 
 - 🔭 I’m currently working on **Huma ANKA.**
