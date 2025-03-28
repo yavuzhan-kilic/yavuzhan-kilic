@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzhan-kilic&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzhan-kilic" /> </p>
 
-- 🌱 I’m currently learning **C development**
-
-- 🔭 I’m currently working on **Huma ANKA.**
+- 🌱 I’m currently learning **Java development**
 
 - 📫 How to reach me **yavuzhankilic@icloud.com**
 
